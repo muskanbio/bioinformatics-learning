@@ -12,4 +12,4 @@ Hi, I'm Muskan.
 - Bioinformatics
 - Data Analysis
 
-This repository contains my learning journey, notes, and practice files.
+This repository contains my learning journey, notes, and practice files, 
